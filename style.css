@@ -1,0 +1,48 @@
+.avat {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border: solid 1px red;
+    margin: 20px auto 20px auto;
+    }
+.parag {
+    text-align: center;
+    color: gray;
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gold;
+}
+.spisoc {
+    color: rgb(32, 150, 124);
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    background: linear-gradient(90deg, rgb(184, 131, 32), rgb(163, 54, 158));
+    margin: 20px 300px 20px 300px;
+    padding: 5px 20px 5px 20px;
+}
+h4 {
+    text-align: center;
+    margin: 5px 300px 5px 300px;
+    background: linear-gradient(90deg, rgb(3, 25, 32), lightBlue);
+}
+.links {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 20px 20px 20px 20px;
+}
+.RS {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 20px 20px 20px 20px;    
+}
